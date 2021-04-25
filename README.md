@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋  
+🔭 I’m currently working on creating useful resources for learning React  
+📫 Lets connect on LinkedIn: https://www.linkedin.com/in/k-novak/  
+💬 Ask me about Frontend Development
+
 
 <!--
 **kimnovak/kimnovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
